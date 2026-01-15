@@ -1,0 +1,43 @@
+{
+  "slug": "kerala-international-tours-city-2-2",
+  "title": "Kerala international tours 2",
+  "country": "India",
+  "state": "Kerala",
+  "city": "City-2",
+  "category": "international-tours",
+  "price": "₹8289",
+  "overview": "This is a sample international-tours for Kerala, City-2.",
+  "highlights": [
+    "Highlight 1",
+    "Highlight 2"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Start",
+      "desc": "Description"
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "inclusions": [
+    "Inc 1"
+  ],
+  "exclusions": [
+    "Exc 1"
+  ],
+  "importantInfo": [
+    "Info 1"
+  ],
+  "faqs": [
+    {
+      "q": "Q",
+      "a": "A"
+    }
+  ]
+}

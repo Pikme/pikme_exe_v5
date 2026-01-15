@@ -1,0 +1,43 @@
+{
+  "slug": "maharashtra-spiritual-tours-city-3-3",
+  "title": "Maharashtra spiritual tours 3",
+  "country": "India",
+  "state": "Maharashtra",
+  "city": "City-3",
+  "category": "spiritual-tours",
+  "price": "₹12268",
+  "overview": "This is a sample spiritual-tours for Maharashtra, City-3.",
+  "highlights": [
+    "Highlight 1",
+    "Highlight 2"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Start",
+      "desc": "Description"
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "inclusions": [
+    "Inc 1"
+  ],
+  "exclusions": [
+    "Exc 1"
+  ],
+  "importantInfo": [
+    "Info 1"
+  ],
+  "faqs": [
+    {
+      "q": "Q",
+      "a": "A"
+    }
+  ]
+}

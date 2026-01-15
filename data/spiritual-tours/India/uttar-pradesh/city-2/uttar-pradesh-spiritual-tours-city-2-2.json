@@ -1,0 +1,43 @@
+{
+  "slug": "uttar-pradesh-spiritual-tours-city-2-2",
+  "title": "Uttar Pradesh spiritual tours 2",
+  "country": "India",
+  "state": "Uttar Pradesh",
+  "city": "City-2",
+  "category": "spiritual-tours",
+  "price": "₹13378",
+  "overview": "This is a sample spiritual-tours for Uttar Pradesh, City-2.",
+  "highlights": [
+    "Highlight 1",
+    "Highlight 2"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Start",
+      "desc": "Description"
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "inclusions": [
+    "Inc 1"
+  ],
+  "exclusions": [
+    "Exc 1"
+  ],
+  "importantInfo": [
+    "Info 1"
+  ],
+  "faqs": [
+    {
+      "q": "Q",
+      "a": "A"
+    }
+  ]
+}

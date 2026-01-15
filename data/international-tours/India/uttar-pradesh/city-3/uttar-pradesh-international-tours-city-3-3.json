@@ -1,0 +1,43 @@
+{
+  "slug": "uttar-pradesh-international-tours-city-3-3",
+  "title": "Uttar Pradesh international tours 3",
+  "country": "India",
+  "state": "Uttar Pradesh",
+  "city": "City-3",
+  "category": "international-tours",
+  "price": "₹6349",
+  "overview": "This is a sample international-tours for Uttar Pradesh, City-3.",
+  "highlights": [
+    "Highlight 1",
+    "Highlight 2"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Start",
+      "desc": "Description"
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "inclusions": [
+    "Inc 1"
+  ],
+  "exclusions": [
+    "Exc 1"
+  ],
+  "importantInfo": [
+    "Info 1"
+  ],
+  "faqs": [
+    {
+      "q": "Q",
+      "a": "A"
+    }
+  ]
+}

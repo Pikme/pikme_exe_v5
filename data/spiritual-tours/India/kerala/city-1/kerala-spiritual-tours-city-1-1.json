@@ -1,0 +1,43 @@
+{
+  "slug": "kerala-spiritual-tours-city-1-1",
+  "title": "Kerala spiritual tours 1",
+  "country": "India",
+  "state": "Kerala",
+  "city": "City-1",
+  "category": "spiritual-tours",
+  "price": "₹8607",
+  "overview": "This is a sample spiritual-tours for Kerala, City-1.",
+  "highlights": [
+    "Highlight 1",
+    "Highlight 2"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Start",
+      "desc": "Description"
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "inclusions": [
+    "Inc 1"
+  ],
+  "exclusions": [
+    "Exc 1"
+  ],
+  "importantInfo": [
+    "Info 1"
+  ],
+  "faqs": [
+    {
+      "q": "Q",
+      "a": "A"
+    }
+  ]
+}

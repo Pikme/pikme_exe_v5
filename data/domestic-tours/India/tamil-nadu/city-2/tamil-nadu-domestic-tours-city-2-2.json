@@ -1,0 +1,43 @@
+{
+  "slug": "tamil-nadu-domestic-tours-city-2-2",
+  "title": "Tamil Nadu domestic tours 2",
+  "country": "India",
+  "state": "Tamil Nadu",
+  "city": "City-2",
+  "category": "domestic-tours",
+  "price": "₹6120",
+  "overview": "This is a sample domestic-tours for Tamil Nadu, City-2.",
+  "highlights": [
+    "Highlight 1",
+    "Highlight 2"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Start",
+      "desc": "Description"
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "inclusions": [
+    "Inc 1"
+  ],
+  "exclusions": [
+    "Exc 1"
+  ],
+  "importantInfo": [
+    "Info 1"
+  ],
+  "faqs": [
+    {
+      "q": "Q",
+      "a": "A"
+    }
+  ]
+}
